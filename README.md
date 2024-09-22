@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on python and Ai amd ML related
-- 📫 How to reach me @mystierider07 @
+- 📫 How to reach me @mystierider07 @Pushkal Sai A
 - I am Male ...
 - ⚡ Fun fact: I love playing songs while coding.
 
